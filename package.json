@@ -1,0 +1,16 @@
+{
+  "name": "axidraw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pathtrim": "^1.0.1",
+    "event-stream": "^3.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Gentle <me@josephg.com>",
+  "license": "ISC, GPL"
+}
